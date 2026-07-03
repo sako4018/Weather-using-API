@@ -14,6 +14,7 @@ namespace WeatherAPIConsole
         {
             while (true)
             {
+                //Raya ne razbira nishto
                 var client = new HttpClient();
                 Console.WriteLine("Welcome to Open Weather API");
                 Console.Write("Enter city name: ");
